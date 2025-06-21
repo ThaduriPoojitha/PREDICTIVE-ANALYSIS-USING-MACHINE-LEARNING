@@ -12,9 +12,9 @@
 
 *MENTOR*:NEELA SANTHOSH
 
- ##YOU HAVE TO ENTER DESCRIPTION OF YOUR TASK Python Google Colab Pandas, NumPy Scikit-learn (sklearn) Seaborn & Matplotlib (for visualization)
-To develop a machine learning model using a real-world dataset to perform predictive analysis. The goal is to understand how machine learning can be applied for classification or regression tasks based on the data.
-[1:16 PM, 21/6/2025] Poojitha: Task 2
+ ##YOU HAVE TO ENTER DESCRIPTION OF YOUR TASK Predictive analysis is a branch of data science that uses statistical and machine learning techniques to forecast outcomes based on historical data. It enables businesses, researchers, and developers to identify trends and make data-driven decisions. In this project, we implement a predictive analysis pipeline using Python and several key libraries including pandas, NumPy, scikit-learn, matplotlib, and seaborn.
+
+The primary aim is to train a machine learning model that can make accurate predictions and provide insights into the importance of each input feature, thus making the solution both predictive and interpretable.
 
 #OUTPUT
 
